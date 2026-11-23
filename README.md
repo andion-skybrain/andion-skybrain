@@ -6,7 +6,7 @@ My biggest strength is system design: understanding how a whole system should be
 ### What I build
 - **Intelligent smart streamer** - Python + Docker, monitored with Prometheus and Grafana. A reinforcement learning model learns from real behaviour (songs skipped vs played to the end) and keeps
 improving what it plays. Private - in development toward SaaS.
-- **Fintech banking platform** - for communities and private institutions (July 2026). Private work.
+- **Fintech banking platform** - for communities and private institutions (July 2026). Private white label plaform work.
 - **Persona** - fully offline web app for creating and managing detailed digital personas, with encryption and secure JSON import/export. React, Material-UI, Dexie.js, Redux Toolkit, CryptoJS.
 - **Offline password manager** - profiles with per-platform passwords, salting, master password, fully offline browser storage (IndexedDB), encrypted import/export.
   
